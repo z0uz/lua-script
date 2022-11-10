@@ -4,10 +4,10 @@ local nmap = require "nmap"
 local shortport = require "shortport"
 
 description = [[
-My first script!
+this is my first script NSE!
 ]]
 
-author = "Your Name"
+author = "z0uz"
  
 license = "Same as Nmap--See https://nmap.org/book/man-legal.html"
  
